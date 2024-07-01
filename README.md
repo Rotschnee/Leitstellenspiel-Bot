@@ -1,4 +1,20 @@
+
 ## 🚨 Bot Features 🚨
+
+### Dein Bot für Missionen und mehr
+
+Ein umfassender Bot für das Spiel Leitstellenspiel.de , der nicht nur automatisierte Missionen unterstützt, sondern auch flexibel gehostet werden kann. 
+Nach Bedarf muss somit kein PC 24/7 für den Bot laufen. Zudem kann der Bot zu beliebigen Uhrzeiten gestarten und beendet werden. 
+Der Bot ist kostenpflichtig! 
+Der Preis variiert je nach Anzahl der Accounts und der gewählten Hostingstrategie und muss individuell abgesprochen werden. 
+
+
+**Kontakt auf Discord: rotschnee**   
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/rotschnee)
+
+
+
+---
 
 ### Automatisierung und Effizienz der Missionen
 
@@ -7,7 +23,7 @@
   - 🌐 Verbandsmissionen
   - 🎉 Events
   - ⏰ Zeiteinsätze
-  
+
 - **🤝 Teilen von Missionen**
   - 📈 Ab einer bestimmten Creditsanzahl mit dem Verband teilen.
 
@@ -32,7 +48,7 @@
   - 👥 Rekrutiert neue Mitarbeiter für sämtliche Wachen automatisch.
 
 - **🎁 Tägliche Belohnungen**
-  - 🏆 Automatisiertes Abholen von den täglichen Belohnungen. 
+  - 🏆 Automatisiertes Abholen von den täglichen Belohnungen.
 
 - **🏅 Event- und Sonderbelohnungen**
   - 🎖️ Automatisiertes Abholen von speziellen Belohnungen und Beförderungen.
@@ -45,10 +61,14 @@
 ### 🚒 Fahrzeugverwaltung
 
 - **🚑 Spezifische Fahrzeugalarmierung**
-  - 🚓 Überschreiben der Fahrzeuge für Verbadnseinsätze, sodass nur ein bestimmtes Fahrzeug alarmiert wird.
+  - 🚓 Überschreiben der Fahrzeuge für Verbandseinsätze, sodass nur ein bestimmtes Fahrzeug alarmiert wird.
 
 - **🔄 Rückalarmierung**
   - 🚒 Automatisierte Rückalarmierung aller Fahrzeuge.
 
-### 🛠️ Und vieles mehr…
+### 🔄 Kontinuierliche Aktualisierung
 
+- **🔄 Neue Missionen**
+  - 🆕 Automatisches Hinzufügen neuer Missionen, keine Downtime bei neu veröffentlichten Missionen.
+
+### 🛠️ Und vieles mehr…
